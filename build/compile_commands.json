@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/test/build",
+  "command": "E:\\software\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\test.dir\\main.c.obj -c C:\\Users\\Administrator\\Desktop\\test\\main.c",
+  "file": "C:/Users/Administrator/Desktop/test/main.c",
+  "output": "CMakeFiles/test.dir/main.c.obj"
+}
+]
